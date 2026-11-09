@@ -1,3 +1,3 @@
 # NEWLEARN
-FIRST  GIT LEARNING
-SAMPRITI KOLEY[letter]
+
+My Git practice repository.
